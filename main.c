@@ -6,7 +6,12 @@
  */
 #include <avr/io.h>
 
+
+//hallo from izzat
+//ceritanya program 
+
 int main(){
 	//ceritanya program
 }
+
 
